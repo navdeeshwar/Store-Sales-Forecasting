@@ -1,0 +1,48 @@
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*.so
+
+# ===========================
+# Virtual Environment
+# ===========================
+.venv/
+venv/
+env/
+
+# ===========================
+# Jupyter
+# ===========================
+.ipynb_checkpoints/
+
+# ===========================
+# macOS
+# ===========================
+.DS_Store
+
+# ===========================
+# IDE
+# ===========================
+.idea/
+
+# ===========================
+# Kaggle Data (keep local only)
+# ===========================
+data/raw/*
+data/processed/*
+
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# ===========================
+# Generated Outputs
+# ===========================
+outputs/figures/*
+outputs/reports/*
+outputs/submission/*
+
+!outputs/figures/.gitkeep
+!outputs/reports/.gitkeep
+!outputs/submission/.gitkeep
