@@ -192,7 +192,7 @@ Best validation approach:
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Store-Sales-Forecasting.git
+git clone https://github.com/navdeeshwar/Store-Sales-Forecasting.git
 ```
 
 Install dependencies
